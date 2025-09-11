@@ -25,11 +25,11 @@
                 A seasoned Full Stack Developer with over 5 years of expertise. I've successfully delivered 150+ projects, specializing in crafting robust web applications and custom solutions.
               </p>
             </div>
-            <div class="button">
+            <!-- <div class="button">
               <div class="dizme_tm_button">
                 <a class="anchor" href="https://wa.me/6285761652392" target="_blank"><span>Whatsapp</span></a>
               </div>
-            </div>
+            </div> -->
           </div>
           <div class="avatar">
             <div class="image">

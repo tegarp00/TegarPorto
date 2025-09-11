@@ -17,7 +17,7 @@
                 >Blog</a
               >
             </li>
-            <li>
+            <!-- <li>
               <a href="https://wa.me/6285761652392" target="_blank">Whatsapp</a>
             </li>
             <li>
@@ -26,7 +26,7 @@
                 target="_blank"
                 >Linkedin</a
               >
-            </li>
+            </li> -->
             <li>
               <a
                 href="https://www.upwork.com/freelancers/~019b2ef6d52ddd90a0?mp_source=share"
@@ -34,7 +34,7 @@
                 >Upwork</a
               >
             </li>
-            <li><a href="mailto:mail.tegarp00@gmail.com">Email Me</a></li>
+            <!-- <li><a href="mailto:mail.tegarp00@gmail.com">Email Me</a></li> -->
           </ul>
         </div>
       </div>

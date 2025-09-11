@@ -14,7 +14,7 @@
               &copy; {{ new Date().getFullYear() }}
             </p>
           </div>
-          <div class="right wow fadeInRight" data-wow-duration="1s">
+          <!-- <div class="right wow fadeInRight" data-wow-duration="1s">
             <ul>
               <li>
                 <a href="https://wa.me/6285761652392" target="_blank"
@@ -37,7 +37,7 @@
               </li>
               <li><a href="mailto:mail.tegarp00@gmail.com">Email Me</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
