@@ -38,7 +38,7 @@
             </li> -->
             <li>
               <a
-                href="https://www.upwork.com/freelancers/~019b2ef6d52ddd90a0?mp_source=share"
+                href="https://www.upwork.com/freelancers/~019b2ef6d52ddd90a0"
                 target="_blank"
                 >Upwork</a
               >
